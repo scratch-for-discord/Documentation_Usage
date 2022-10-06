@@ -7,6 +7,12 @@ description: >-
 
 # 🏠 Home
 
+Documentation for Scratch for discord.
+
+{% hint style="info" %}
+Source: [https://github.com/scratch-for-discord](https://github.com/scratch-for-discord)
+{% endhint %}
+
 {% content-ref url="introduction/about.md" %}
 [about.md](introduction/about.md)
 {% endcontent-ref %}

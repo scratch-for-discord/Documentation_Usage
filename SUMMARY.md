@@ -15,10 +15,7 @@
 ## 🧱 Blocks
 
 * [Base](blocks/base.md)
-* [Basic](blocks/basic/README.md)
-  * [Text](blocks/basic/text.md)
-  * [Colors](blocks/basic/colors.md)
-  * [Math](blocks/basic/math.md)
+* [Basic](blocks/basic.md)
 * [Functions](blocks/functions/README.md)
   * [Logic](blocks/functions/logic.md)
   * [Loops](blocks/functions/loops.md)
@@ -41,9 +38,8 @@
   * [Messages](blocks/discord/messages/README.md)
     * [Threads](blocks/discord/messages/threads.md)
     * [Webhook](blocks/discord/messages/webhook.md)
-    * [Edited](blocks/discord/messages/edited.md)
+    * [Edited & Deleted](blocks/discord/messages/edited-and-deleted.md)
     * [Reactions](blocks/discord/messages/reactions.md)
-    * [Deleted](blocks/discord/messages/deleted.md)
   * [Embeds](blocks/discord/embeds.md)
   * [Members](blocks/discord/members/README.md)
     * [Joins & Leaves](blocks/discord/members/joins-and-leaves.md)

@@ -6,7 +6,7 @@ description: How to host my bot?
 
 Once you have both Blocks and Your bot prepared, you are ready for hosting
 
-### Testing
+## Testing
 
 For only testing your new command if it´s working, you can use build in hosting, you can find this in the Web app on right-side of navigation bar next to settings button.
 
@@ -14,7 +14,7 @@ For only testing your new command if it´s working, you can use build in hosting
 
 This is the token you use from step 7. of [bot.md](bot.md "mention")
 
-### Hosting
+## Hosting
 
 You already made some working application and want to host it? Sure
 
@@ -26,7 +26,7 @@ or you can use websites like [railway ](https://railway.app/)or [heroku](https:/
 
 
 
-#### Hosting on Replit
+### Hosting on Replit
 
 1. Create a new Repl
 2. Select Language as Node.js & name it whatever you want
@@ -44,8 +44,8 @@ environmental variable is there to secure your bot token
 
 #### How to use it?
 
-In s4d ![](<../.gitbook/assets/screenshot (40).png>)
+&#x20;
 
-In Replit.com ![](../.gitbook/assets/image.png)
+<figure><img src="../.gitbook/assets/EEEEEEEEEEEEEEEE (1).png" alt=""><figcaption></figcaption></figure>
 
-and your done!
+and you´re done!
