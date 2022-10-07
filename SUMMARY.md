@@ -55,6 +55,7 @@
 ## 🖥 Interface
 
 * [How to](interface/how-to.md)
+* [Packages](interface/packages.md)
 
 ***
 
