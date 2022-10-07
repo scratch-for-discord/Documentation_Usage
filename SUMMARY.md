@@ -15,7 +15,10 @@
 ## 🧱 Blocks
 
 * [Base](blocks/base.md)
-* [Basic](blocks/basic.md)
+* [Basic](blocks/basic/README.md)
+  * [Text](blocks/basic/text.md)
+  * [Math](blocks/basic/math.md)
+  * [Colors](blocks/basic/colors.md)
 * [Functions](blocks/functions/README.md)
   * [Logic](blocks/functions/logic.md)
   * [Loops](blocks/functions/loops.md)
