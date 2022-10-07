@@ -32,5 +32,8 @@ Same with **text includes**, mean contains anywhere in the text (abc - includes:
 
 <img src="../../.gitbook/assets/screenshot (9).png" alt="" data-size="line"> - Convert [non-ASCII characters](https://terpconnect.umd.edu/\~zben/Web/CharSet/htmlchars.html) to [ASCII characters](https://www.ascii-code.com/) (A-Z)
 
-
-
+|                                       Block                                      |                           Function                           |       Output       | format |   Tip  |
+| :------------------------------------------------------------------------------: | :----------------------------------------------------------: | :----------------: | :----: | :----: |
+|     <img src="../../.gitbook/assets/screenshot.png" alt="" data-size="line">     |                   Put any string in there                    | Anything you input | String | Click  |
+| <img src="../../.gitbook/assets/screenshot (1).png" alt="" data-size="original"> | Make a text from multiple inputs, you can put anything there |                    | String |        |
+|                                                                                  |                                                              |                    |        |        |

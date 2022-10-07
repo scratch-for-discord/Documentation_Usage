@@ -9,9 +9,25 @@ description: >-
 
 Documentation for Scratch for discord.
 
-{% hint style="info" %}
-Source: [https://github.com/scratch-for-discord](https://github.com/scratch-for-discord)
-{% endhint %}
+## Source
+
+### Organisation
+
+{% embed url="https://github.com/scratch-for-discord" %}
+
+### Repository
+
+{% embed url="https://github.com/scratch-for-discord/Web-Application_Frontend" %}
+
+### Projects
+
+{% embed url="https://github.com/orgs/scratch-for-discord/projects" %}
+
+### Tasks
+
+{% embed url="https://github.com/orgs/scratch-for-discord/projects/1/views/8" %}
+
+## Navigation
 
 {% content-ref url="introduction/about.md" %}
 [about.md](introduction/about.md)
@@ -19,4 +35,8 @@ Source: [https://github.com/scratch-for-discord](https://github.com/scratch-for-
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="blocks/discord/" %}
+[discord](blocks/discord/)
 {% endcontent-ref %}
