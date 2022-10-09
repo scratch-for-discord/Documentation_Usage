@@ -37,6 +37,12 @@ To make a Regex, you can use [https://regex101.com/](https://regex101.com/)
 
 <figure><img src="../../.gitbook/assets/screenshot (47) (2).png" alt=""><figcaption><p>Example of using Regex</p></figcaption></figure>
 
+{% code title="Output" %}
+```javascript
+['def']
+```
+{% endcode %}
+
 1. You set OUTPUT to variable to be able to use it later, you can save "Create new RegEx of" to variable too to use it multiple times.
 2. Now you have output you can do whatever you want.
 3. lenght of matches = how many matches exists on given text, output is in lists
