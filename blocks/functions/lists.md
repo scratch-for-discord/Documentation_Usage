@@ -29,7 +29,7 @@ n/a
 
 n/a
 
-## Regex
+## RegEx
 
 A regular expression is a sequence of characters that specifies a search pattern in text. Usually such patterns are used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation.
 
@@ -44,6 +44,8 @@ To make a Regex, you can use [https://regex101.com/](https://regex101.com/)
 it will be as next output in a list ['def', 'etc']
 ```
 {% endcode %}
+
+### How to RegEx
 
 1. You set OUTPUT to variable to be able to use it later, you can save "Create new RegEx of" to variable too to use it multiple times.
 2. Now you have output you can do whatever you want.
