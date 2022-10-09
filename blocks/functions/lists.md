@@ -12,7 +12,7 @@ Lists are used mainly for splitting and managing a text
 
 You can make a list by splitting a text seen as example bellow, Creating an empty list or Making a list with same items by x times.
 
-<figure><img src="../../.gitbook/assets/screenshot (48) (1).png" alt=""><figcaption><p>Example of a list</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot (48).png" alt=""><figcaption><p>Example of a list</p></figcaption></figure>
 
 {% code title="Output" %}
 ```javascript
@@ -40,6 +40,8 @@ To make a Regex, you can use [https://regex101.com/](https://regex101.com/)
 {% code title="Output" %}
 ```javascript
 ['def']
+/*This RegEx will get everything that is inside of brackets [], for multiple brackets
+it will be as next output in a list ['def', 'etc']
 ```
 {% endcode %}
 
