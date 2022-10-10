@@ -12,7 +12,7 @@ You should start doing just very basic things, than using random blocks.
 
 All the blocks and functionality is explained in [Broken link](broken-reference "mention")&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Example of using Scratch for Discord</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Example of using Scratch for Discord</p></figcaption></figure>
 
 Above you can see how basic command can look. and on the right side is output
 
