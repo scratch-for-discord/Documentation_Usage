@@ -23,11 +23,24 @@ You can make a list by splitting a text seen as example bellow, Creating an empt
 
 ## Managing a list
 
-n/a
+<figure><img src="../../.gitbook/assets/screenshot (74).png" alt=""><figcaption></figcaption></figure>
+
+{% code title="Output" %}
+```javascript
+[ 'Z', 'B',  'CD', 'E', 'FG', 'H', 'X' ]
+/* Changed FIRST position to "Z", push = add to last position "X"*/
+```
+{% endcode %}
 
 ## Information of a list
 
-n/a
+<figure><img src="../../.gitbook/assets/screenshot (73).png" alt=""><figcaption></figcaption></figure>
+
+<pre class="language-javascript" data-title="Output"><code class="lang-javascript">6 //lenght
+true // list contains "A"
+1 //First position of Item "A"
+<strong>CD //get item number 3
+</strong>E,FG,H //get sub-list from 4 to last</code></pre>
 
 ## RegEx
 

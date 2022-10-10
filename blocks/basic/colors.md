@@ -9,7 +9,7 @@ You can use colors, for [embeds.md](../discord/embeds.md "mention") or some [#im
 |   <img src="../../.gitbook/assets/screenshot (50) (1).png" alt="" data-size="line">   |                                 Basic color picker                                |       #ff0000       |
 |   <img src="../../.gitbook/assets/screenshot (51).png" alt="" data-size="original">   |                         Generate a random color each time                         | (#000000 - #ffffff) |
 |   <img src="../../.gitbook/assets/screenshot (52).png" alt="" data-size="original">   |                Input a custom [HEX](https://g.co/kgs/7MwFUq) color                |       #4287f5       |
-| <img src="../../.gitbook/assets/screenshot (53) (1).png" alt="" data-size="original"> |                Make a custom Color Using an RGB (Red, Green, Blue)                | RGB (255, 127.5, 0) |
+| <img src="../../.gitbook/assets/screenshot (53) (1).png" alt="" data-size="original"> |                  Make a custom Color Using RGB (Red, Green, Blue)                 | RGB (255, 127.5, 0) |
 | <img src="../../.gitbook/assets/screenshot (55) (1).png" alt="" data-size="original"> | Blend 2 colors, that mean their two Hex codes will be combined into one new color |       #991a80       |
 
 ## Example
@@ -22,9 +22,9 @@ You can use colors, for [embeds.md](../discord/embeds.md "mention") or some [#im
 
 ### Cheat
 
-To you all 255 colors with RGB, you use simple math
+To use RGB block with 255 colors with, you can use simple math
 
-You know that 100 % is 255, but you can only use 100
+You know that 100 % is 255, but maximal input is 100
 
 So you divide 100 by 255 and multiply it whatever RGB value you wish
 
@@ -32,7 +32,7 @@ So you divide 100 by 255 and multiply it whatever RGB value you wish
 
 Output is #ffd25a
 
-which in RGB is 255, 210, 90
+which is in RGB 255, 210, 90
 
 
 
