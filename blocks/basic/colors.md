@@ -4,13 +4,13 @@
 
 You can use colors, for [embeds.md](../discord/embeds.md "mention") or some [#image-editing](../functions/files/images.md#image-editing "mention")&#x20;
 
-|                                       Input                                       |                                      Function                                     |        Output       |
-| :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-----------------: |
-| <img src="../../.gitbook/assets/screenshot (50) (1).png" alt="" data-size="line"> |                                 Basic color picker                                |       #ff0000       |
-| <img src="../../.gitbook/assets/screenshot (51).png" alt="" data-size="original"> |                         Generate a random color each time                         | (#000000 - #ffffff) |
-|                  ![](<../../.gitbook/assets/screenshot (52).png>)                 |                Input a custom [HEX](https://g.co/kgs/7MwFUq) color                |       #4287f5       |
-|                ![](<../../.gitbook/assets/screenshot (53) (1).png>)               |                Make a custom Color Using an RGB (Red, Green, Blue)                | RGB (255, 127.5, 0) |
-|                ![](<../../.gitbook/assets/screenshot (55) (1).png>)               | Blend 2 colors, that mean their two Hex codes will be combined into one new color |       #991a80       |
+|                                         Input                                         |                                      Function                                     |        Output       |
+| :-----------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-----------------: |
+|   <img src="../../.gitbook/assets/screenshot (50) (1).png" alt="" data-size="line">   |                                 Basic color picker                                |       #ff0000       |
+|   <img src="../../.gitbook/assets/screenshot (51).png" alt="" data-size="original">   |                         Generate a random color each time                         | (#000000 - #ffffff) |
+|   <img src="../../.gitbook/assets/screenshot (52).png" alt="" data-size="original">   |                Input a custom [HEX](https://g.co/kgs/7MwFUq) color                |       #4287f5       |
+| <img src="../../.gitbook/assets/screenshot (53) (1).png" alt="" data-size="original"> |                Make a custom Color Using an RGB (Red, Green, Blue)                | RGB (255, 127.5, 0) |
+| <img src="../../.gitbook/assets/screenshot (55) (1).png" alt="" data-size="original"> | Blend 2 colors, that mean their two Hex codes will be combined into one new color |       #991a80       |
 
 ## Example
 
