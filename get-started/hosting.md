@@ -10,7 +10,7 @@ Once you have both Blocks and Your bot prepared, you are ready for hosting
 
 For only testing your new command if it´s working, you can use build in hosting, you can find this in the Web app on right-side of navigation bar next to settings button.
 
-<figure><img src="../.gitbook/assets/screenshot (39) (2).png" alt=""><figcaption><p>Use this block in <a href="../blocks/base.md">BASE </a>category</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/screenshot (39) (1).png" alt=""><figcaption><p>Use this block in <a href="../blocks/base.md">BASE </a>category</p></figcaption></figure>
 
 This is the token you use from step 7. of [bot.md](bot.md "mention")
 

@@ -2,7 +2,7 @@
 
 |                                         Block                                         |                                                    Function                                                    |    Output   |
 | :-----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :---------: |
-|   <img src="../../.gitbook/assets/screenshot (58) (3).png" alt="" data-size="line">   |                                               Basic Number Input                                               |      0      |
+|     <img src="../../.gitbook/assets/screenshot (58).png" alt="" data-size="line">     |                                               Basic Number Input                                               |      0      |
 | <img src="../../.gitbook/assets/screenshot (59) (2).png" alt="" data-size="original"> |                       Basic math functions (Sum, difference, , product ,quotient, power)                       |      2      |
 |                  ![](<../../.gitbook/assets/screenshot (60) (1).png>)                 | More Functions (square root, absolute, negation, logarithm, base10 logarithm, euler number, 10 on power of..)  |      3      |
 |   <img src="../../.gitbook/assets/screenshot (61).png" alt="" data-size="original">   |                                   Functions (sin, cos, tan, asin, acos, atan)                                  |  **0,707**  |

@@ -12,7 +12,7 @@ Lists are used mainly for splitting and managing a text
 
 You can make a list by splitting a text seen as example bellow, Creating an empty list or Making a list with same items by x times.
 
-<figure><img src="../../.gitbook/assets/screenshot (48).png" alt=""><figcaption><p>Example of a list</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot (48) (2).png" alt=""><figcaption><p>Example of a list</p></figcaption></figure>
 
 {% code title="Output" %}
 ```javascript
