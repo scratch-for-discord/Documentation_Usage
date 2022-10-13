@@ -58,7 +58,7 @@
 ## 🖥 Interface
 
 * [How to](interface/how-to.md)
-* [Packages](interface/packages.md)
+* [📦 Packages](interface/packages.md)
 
 ***
 
@@ -66,6 +66,6 @@
 
 ## 🔗 Links
 
-* [Website](https://scratch-for-discord.com/)
+* [Web-app](https://scratch-for-discord.com/)
 * [Discord Server](https://discord.gg/TsQPMrNyBv)
 * [Source code](https://github.com/scratch-for-discord)
