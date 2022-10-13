@@ -4,7 +4,7 @@
 
 ## Introduction
 
-* [What is Scratch for Discord](introduction/about.md)
+* [Abou Scratch for Discord](introduction/about.md)
 
 ## 🎓 Get Started
 
