@@ -1,8 +1,4 @@
----
-description: description about this project
----
-
-# Abou Scratch for Discord
+# About Scratch for Discord
 
 Scratch For Discord™ (aka S4D™) is the Online Scratch-like IDE for Discord Bots.
 
