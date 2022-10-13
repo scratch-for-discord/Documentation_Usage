@@ -2,21 +2,50 @@
 description: Learn how to create and manage your application
 ---
 
-# Setting up bot
+# Setting up Bot
 
-1. Start by going to [Discord developer portal](https://discord.com/developers/applications)
-2. Click "New Application", if you don´t have one and set it´s name
-3. On the left side you see a tab, in the General Information you can set your app name, description and icon
-4. Now go to Bot and click "Add Bot", once you do so, your bot is created
-5. Make sure to turn on all Privileged Gateway Intents - PRESENCE INTENT, SERVER MEMBERS INTENT & MESSAGE CONTENT INTENT
-6. Click on Reset Token and Copy
-7. In the next step [hosting.md](hosting.md "mention") you can see how to use the token.
-8. You can now invite your bot in OAuth2 → URL Generator
-9. In SCOPES select Bot and BOT PERMISSIONS should appear, there select the ones you want, you can select Administrator if you want it for testing (recommended on a new server)
-10. Copy the URL and invite the bot to your server and your done!
+### How to Create a bot?
 
-{% hint style="danger" %}
-Don´t share your bot token with anyone and use .env to keep it safe
+Start By going to the [Discord](https://discord.com/developers/applications) Developer Portal then at the top right  Click New Application.
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+It will then proceed to ask you a few questions before getting started - Once finished hit Create to create the application for your discord bot!
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+On the left their is a side bar, and an option named General Information  - this is where you can customize the bot and add more info - once you have done that click bot
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
+
+You should see on the far right an Add Bot Button, be sure to click it.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+It will ask if you want to create a bot on that application click yes if you want to if now just click Nevermind.
+
+{% hint style="warning" %}
+Make sure to turn on all Privileged Gateway Intents - PRESENCE INTENT, SERVER MEMBERS INTENT & MESSAGE CONTENT INTENT
 {% endhint %}
 
-> [https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)
+Now we need to get our token, due to safety reasons tokens have to be regenerated everytime you visit the developer dashboard. So you will need to click  the reset token button to get the token
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Please visit [safely-storing-tokens.md](safely-storing-tokens.md "mention"), result in not safely storing them can lead to your bot being compromised!
+{% endhint %}
+
+## How to invite bot to server?
+
+1. In SCOPES select Bot and BOT PERMISSIONS should appear, there select the ones you want, you can select Administrator if you want it for testing (recommended on a new server)
+2. Copy the URL and invite the bot to your server and your done!
+
+
+
+{% hint style="info" %}
+For further information visit: [https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)
+{% endhint %}
+

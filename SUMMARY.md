@@ -9,7 +9,8 @@
 ## 🎓 Get Started
 
 * [Using blocks](get-started/blocks.md)
-* [Setting up bot](get-started/bot.md)
+* [Setting up Bot](get-started/bot.md)
+* [Safely Storing Tokens](get-started/safely-storing-tokens.md)
 * [Hosting](get-started/hosting.md)
 
 ## 🧱 Blocks
@@ -20,10 +21,14 @@
   * [Math](blocks/basic/math.md)
   * [Colors](blocks/basic/colors.md)
 * [Functions](blocks/functions/README.md)
-  * [Logic](blocks/functions/logic.md)
+  * [Logic](blocks/functions/logic/README.md)
+    * [If logic](blocks/functions/logic/if-logic.md)
+    * [State Machines](blocks/functions/logic/state-machines.md)
   * [Loops](blocks/functions/loops.md)
   * [Lists](blocks/functions/lists.md)
-  * [Variables](blocks/functions/variables.md)
+  * [Variables](blocks/functions/variables/README.md)
+    * [Var](blocks/functions/variables/var.md)
+    * [Let](blocks/functions/variables/let.md)
   * [Functions](blocks/functions/functions.md)
   * [Collections](blocks/functions/collections.md)
   * [Objects](blocks/functions/objects.md)
