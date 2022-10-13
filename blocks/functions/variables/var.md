@@ -13,7 +13,12 @@ This variable type is useful because it allows us to reuse it multiple times, un
 
 
 
-So in s4d we can create a variable named my name and set it to John, - in this example we are going to use prefixed commands. Before we start we need an event listener which in this case is on message received, then we add our logic - If set my name to Anny - notice we have redeclared this variable now it is no longer John!, then we print the new variable value which will output Anny.
+So we can create a variable, that will set when the bot starts, named `MyName` and set it to `John`, notice we have redeclared this variable now it is no longer John!, then we print the new variable value which will output as `Anny`.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot (83).png" alt=""><figcaption><p>Example of variable usage</p></figcaption></figure>
 
+{% code title="Output" %}
+```
+Anny
+```
+{% endcode %}
