@@ -9,7 +9,7 @@
 ## 🎓 Get Started
 
 * [Using blocks](get-started/blocks.md)
-* [Setting up Bot](get-started/bot.md)
+* [Bot Setup](get-started/bot.md)
 * [Security](get-started/security.md)
 * [Hosting](get-started/hosting.md)
 

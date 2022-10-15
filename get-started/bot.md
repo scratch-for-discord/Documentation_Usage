@@ -1,51 +1,71 @@
 ---
-description: Learn how to create and manage your application
+description: Application Creation and Management
 ---
 
-# Setting up Bot
+# Bot Setup
 
-### How to Create a bot?
+## Application Creation
 
-Start By going to the [Discord](https://discord.com/developers/applications) Developer Portal then at the top right  Click New Application.
+* [x] Go to the [Discord developer portal](https://discord.com/developers/applications)
+*   [x] Click on "New Application" on the top right
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (12).png" alt="Discord Developer Portal﹣éNew Application&#x22; Button"><figcaption><p>Discord Developer Portal﹣éNew Application" Button</p></figcaption></figure>
 
-It will then proceed to ask you a few questions before getting started - Once finished hit Create to create the application for your discord bot!
+It will then proceed to ask you a few questions\
+Once finished:
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+*   [x] Click on "Create"
 
-On the left their is a side bar, and an option named General Information  - this is where you can customize the bot and add more info - once you have done that click bot
+    <figure><img src="../.gitbook/assets/image (13).png" alt="Discord Developer Portal﹣&#x22;Create an Application&#x22; Modal"><figcaption><p>Discord Developer Portal﹣"Create an Application" Modal</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+## Application Customization
 
+On the left their is a sidebar which has a "General Information" option\
+This is where you can customize the bot and add more information
 
+<figure><img src="../.gitbook/assets/image (4).png" alt="Discord Developer Portal﹣&#x22;General Information&#x22; Menu"><figcaption><p>Discord Developer Portal﹣"General Information" Menu</p></figcaption></figure>
 
-You should see on the far right an Add Bot Button, be sure to click it.
+## Bot Creation
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+*   [x] Click on the far right "Add Bot" button
 
-It will ask if you want to create a bot on that application click yes if you want to if now just click Nevermind.
-
-{% hint style="warning" %}
-Make sure to turn on all Privileged Gateway Intents - PRESENCE INTENT, SERVER MEMBERS INTENT & MESSAGE CONTENT INTENT
-{% endhint %}
-
-Now we need to get our token, due to safety reasons tokens have to be regenerated everytime you visit the developer dashboard. So you will need to click  the reset token button to get the token
-
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5).png" alt="Discord Developer Portal﹣&#x22;Add Bot&#x22; Button"><figcaption><p>Discord Developer Portal﹣"Add Bot" Button</p></figcaption></figure>
 
 {% hint style="warning" %}
-Please visit [security.md](security.md "mention"), result in not safely storing them can lead to your bot being compromised!
+Scratch for Discord does only work with all Privileged Gateway Intents allowed:
+
+* PRESENCE INTENT
+* SERVER MEMBERS INTENT
+* MESSAGE CONTENT INTENT
 {% endhint %}
 
-## How to invite bot to server?
+*   [x] Get the token
 
-1. In SCOPES select Bot and BOT PERMISSIONS should appear, there select the ones you want, you can select Administrator if you want it for testing (recommended on a new server)
-2. Copy the URL and invite the bot to your server and your done!
+    <figure><img src="../.gitbook/assets/image (6).png" alt="Discord Developer Portal﹣&#x22;Token&#x22; Page"><figcaption><p>Discord Developer Portal﹣"Token" Page</p></figcaption></figure>
 
+{% hint style="warning" %}
+It is impossible to get an already created token:\
+If you have lost it, you need to reset it
+{% endhint %}
 
+The token is the "password" of the bot\
+It is used to connect your script to Discord
+
+{% hint style="danger" %}
+Read [#tokens](security.md#tokens "mention") to know how to secure the token correctly
+{% endhint %}
+
+## Bot Invitation
+
+*   [x] Click on OAuth2, then on "URL Generator"
+
+    <figure><img src="../.gitbook/assets/image (10).png" alt="Discord Developer Portal﹣&#x22;OAuth2﹣URL Generator&#x22; Menu"><figcaption><p>Discord Developer Portal﹣"OAuth2﹣URL Generator" Menu</p></figcaption></figure>
+* [x] Select Bot
+* [x] Select the BOT PERMISSIONS you need _(recommandation: for a private bot, chose Administrator)_
+* [x] Copy the URL
+* [x] Invite the bot to the server you need
 
 {% hint style="info" %}
-For further information visit: [https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)
+Further information and official documentation:\
+[https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)
 {% endhint %}
-
