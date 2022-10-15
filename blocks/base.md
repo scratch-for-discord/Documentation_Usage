@@ -7,7 +7,7 @@ Using this block, you can connect your script to Discord
 ![](<../.gitbook/assets/screenshot (39) (2).png>)
 
 {% hint style="info" %}
-To know how to use a [token](base.md#token), check "TEMPLATE"
+To know how to [get a token](../get-started/bot.md#get-the-token), check [#get-the-token](../get-started/bot.md#get-the-token "mention")
 {% endhint %}
 
 ## Webserver
