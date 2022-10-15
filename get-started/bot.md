@@ -39,20 +39,17 @@ Scratch for Discord does only work with all Privileged Gateway Intents allowed:
 * MESSAGE CONTENT INTENT
 {% endhint %}
 
-*   [x] Get the token
+*   [x] Get the [token](../blocks/base.md#token)
 
     <figure><img src="../.gitbook/assets/image (6).png" alt="Discord Developer Portal﹣&#x22;Token&#x22; Page"><figcaption><p>Discord Developer Portal﹣"Token" Page</p></figcaption></figure>
 
 {% hint style="warning" %}
-It is impossible to get an already created token:\
+It is impossible to get an already created [token](../blocks/base.md#token):\
 If you have lost it, you need to reset it
 {% endhint %}
 
-The token is the "password" of the bot\
-It is used to connect your script to Discord
-
-{% hint style="danger" %}
-Read [#tokens](security.md#tokens "mention") to know how to secure the token correctly
+{% hint style="info" %}
+To know how to use the [token](../blocks/base.md#token), read[#token](../blocks/base.md#token "mention")
 {% endhint %}
 
 ## Bot Invitation

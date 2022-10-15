@@ -12,7 +12,7 @@ For new users, we recommend they start doing very basic things, progressing in c
 
 ### Simple
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="Top and Left: Workspace Example︱Right: Result"><figcaption><p>Top and Left: Workspace Example︱Right: Result</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="Top and Left: Workspace Example︱Right: Result"><figcaption><p>Top and Left: Workspace Example︱Right: Result</p></figcaption></figure>
 
 ### In-app
 

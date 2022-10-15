@@ -33,7 +33,7 @@ Switch cases are like [if-logic.md](if-logic.md "mention") statements, above che
 
 We can do the same inside of scratch for discord - Here is an example
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Just like above this switch case checks the variable then checks values until it finds the value then run the code inside it.
 
