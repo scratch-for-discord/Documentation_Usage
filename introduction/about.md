@@ -1,44 +1,43 @@
 # About Scratch for Discord
 
-Scratch For Discord™ (aka S4D™) is the Online Scratch-like IDE for Discord Bots.
+[Scratch For Discord](https://scratch-for-discord.com/)™ (aka S4D™) is the Online Scratch-like IDE for Discord Bots.
 
-Make your Discord bot using Scratch blocks! [Scratch For Discord](https://scratch-for-discord.com/) is an advanced fork of [discord-blocks](https://discordblocks.leondrolio.com/), and currently is being maintained by a nice group of people who do this in their free time! It was discontinued by its owner and we decided to continue working on it and make it a bigger project.
+Make your Discord bot using blocks!\
+[Scratch For Discord](https://scratch-for-discord.com/)™ is currently being maintained by a nice group of people who do this in their free time! It was discontinued by its owner and we decided to continue working on it and make it a bigger project.
 
-## So what is it?
+## Usage Description
 
-It´s an easy way to make your discord bot without any knowledge of coding, you can also use it to learn JavaScript. It works using [Scratch](https://scratch.mit.edu/) blocks, that you put in order to work.
+It's an easy way to make your discord bot without any knowledge of coding, you can also use it to learn JavaScript. It works using [Scratch](https://scratch.mit.edu/) blocks, that you put in order to work.
 
-### What can I even do?
+### Doability
 
-You can do whatever you can imagine, there is a huge options from starting ping command to some stats managing bot.
+You can do whatever bot you can imagine, there is a huge options from starting ping command to some stats managing bot.
 
-### Is it free?
+### Price
 
 Scratch for Discord will forever be free about native javascript and discord.js library coverage.
 
-### Is it still getting updated?
+### Maintenance
 
-Currently it´s the most active from it´s existence.&#x20;
+It currently is in the most active state from its existence
 
 {% hint style="info" %}
-You can visit our [Discord Server](https://discord.com/invite/TsQPMrNyBv), check Github repository or check in-app "changelog"
+You can join the [Official Discord Server](https://discord.com/invite/TsQPMrNyBv), check the [Official Github Organisation](https://github.com/scratch-for-discord) or read the in-app "changelog"
 {% endhint %}
 
-### Sounds good, But what's the catch?
+### Usage Reason
 
-The main catch is that you still have to use your brain, while it´s easier (for starters) to learn JS.
+Scratch for Discord is the easiest, funniest, and perhaps the most complete way to create Discord Bots
 
-## What do I need?
+## Requirements
 
-* No coding skills
-* PC to create your blocks
+* A numerical device _(recommendation: a computer)_
+* An internet connection
+* More than 10 IQ
+* A Discord account
 
-{% hint style="warning" %}
-Mobile is not recommended
-{% endhint %}
+That's it, nothing more!
 
-* Hosting service
-* Bot
+## Get started
 
-
-
+Perfect, let's [Broken link](broken-reference "mention")!
