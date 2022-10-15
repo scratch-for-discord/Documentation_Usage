@@ -48,4 +48,4 @@ environmental variable is there to secure your bot token
 
 <figure><img src="../.gitbook/assets/EEEEEEEEEEEEEEEE (1).png" alt=""><figcaption></figcaption></figure>
 
-and you´re done!
+and you are done!
