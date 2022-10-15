@@ -35,7 +35,7 @@ Now we need to get our token, due to safety reasons tokens have to be regenerate
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Please visit [safely-storing-tokens.md](safely-storing-tokens.md "mention"), result in not safely storing them can lead to your bot being compromised!
+Please visit [security.md](security.md "mention"), result in not safely storing them can lead to your bot being compromised!
 {% endhint %}
 
 ## How to invite bot to server?

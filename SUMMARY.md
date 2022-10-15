@@ -10,7 +10,7 @@
 
 * [Using blocks](get-started/blocks.md)
 * [Setting up Bot](get-started/bot.md)
-* [Safely Storing Tokens](get-started/safely-storing-tokens.md)
+* [Security](get-started/security.md)
 * [Hosting](get-started/hosting.md)
 
 ## 🧱 Blocks
