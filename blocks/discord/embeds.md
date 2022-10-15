@@ -65,11 +65,9 @@ To send an embed you need the block \[Send embed with name {embed/s} ]. Here are
 | ------------------------------------------------ | ------------------------------------------------------------ |
 | ![](<../../.gitbook/assets/screenshot (37).png>) | ![](../../.gitbook/assets/imagen\_2022-10-15\_103425904.png) |
 
-{% hint style="warning" %}
 ## Limitations
 
-There are a few limits to be aware of while planning your embeds due to the API's limitations. Here is a quick reference you can come back to:
-
+{% hint style="warning" %}
 * Embed titles are limited to 256 characters
 * Embed descriptions are limited to 4096 characters
 * There can be up to 25 fields
@@ -79,3 +77,7 @@ There are a few limits to be aware of while planning your embeds due to the API'
 * The sum of all characters from all embed structures in a message must not exceed 6000 characters
 * Ten embeds can be sent per message
 {% endhint %}
+
+### Documentation
+
+* [Discord Docs](https://discord.com/developers/docs/resources/channel#embed-object-embed-limits)
