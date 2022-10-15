@@ -51,7 +51,7 @@ If you have lost it, you need to reset it
 {% endhint %}
 
 {% hint style="info" %}
-To know how to use the [token](../blocks/base.md#token), read[#token](../blocks/base.md#token "mention")
+To know how to use the [token](../blocks/base.md#token), check[#token](../blocks/base.md#token "mention")
 {% endhint %}
 
 ## Bot Invitation
