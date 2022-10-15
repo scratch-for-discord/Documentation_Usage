@@ -59,7 +59,7 @@ Read [#tokens](security.md#tokens "mention") to know how to secure the token cor
 
 *   [x] Click on OAuth2, then on "URL Generator"
 
-    <figure><img src="../.gitbook/assets/image (10).png" alt="Discord Developer Portal﹣&#x22;OAuth2﹣URL Generator&#x22; Menu"><figcaption><p>Discord Developer Portal﹣"OAuth2﹣URL Generator" Menu</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image.png" alt="Discord Developer Portal﹣&#x22;OAuth2﹣URL Generator&#x22; Menu"><figcaption><p>Discord Developer Portal﹣"OAuth2﹣URL Generator" Menu</p></figcaption></figure>
 * [x] Select Bot
 * [x] Select the BOT PERMISSIONS you need _(recommandation: for a private bot, chose Administrator)_
 * [x] Copy the URL

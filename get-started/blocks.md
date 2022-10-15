@@ -1,29 +1,27 @@
----
-description: How to use web app interface?
----
+# Block Usage
 
-# Using blocks
+## New Users
 
 {% hint style="info" %}
-**Are you new here?**&#x20;
+#### **Recommendation**&#x20;
 
-You should start doing just very basic things, than using random blocks.
+For new users, we recommend they start doing very basic things, progressing in complexity, instead of firstly trying to develop a bot for NASA
 {% endhint %}
 
-All the blocks and functionality is explained in [Broken link](broken-reference "mention")&#x20;
+## Exemples
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Example of using Scratch for Discord</p></figcaption></figure>
+### Simple
 
-Above you can see how basic command can look. and on the right side is output
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="Top and Left: Workspace Example︱Right: Result"><figcaption><p>Top and Left: Workspace Example︱Right: Result</p></figcaption></figure>
 
-## Not sure?
+### In-app
 
-Still don´t understand how specific given block or multiple blocks together works?
+If you don't understand how specific given block or multiple blocks together works, you can check on the web-application navigation bar the "Examples" option
 
-You can check Examples, located on the navigation bar.  Or ask in our [Discord](https://discord.gg/TsQPMrNyBv) other members.
+### Further Documentation
 
-## Block Formating
+The blocks and their functionalities are explained in [Broken link](broken-reference "mention")
 
-
+## Formatting
 
 <figure><img src="../.gitbook/assets/screenshot (41).png" alt=""><figcaption></figcaption></figure>
