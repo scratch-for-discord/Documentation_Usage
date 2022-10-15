@@ -1,3 +1,2 @@
 # 🗓 Schedule events
 
-n/a
