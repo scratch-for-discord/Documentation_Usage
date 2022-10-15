@@ -29,7 +29,7 @@ This is where you can customize the bot and add more information
 
 *   [x] Click on the far right "Add Bot" button
 
-    <figure><img src="../.gitbook/assets/image (5) (1).png" alt="Discord Developer Portal﹣&#x22;Add Bot&#x22; Button"><figcaption><p>Discord Developer Portal﹣"Add Bot" Button</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5).png" alt="Discord Developer Portal﹣&#x22;Add Bot&#x22; Button"><figcaption><p>Discord Developer Portal﹣"Add Bot" Button</p></figcaption></figure>
 
 {% hint style="warning" %}
 Scratch for Discord does only work with all Privileged Gateway Intents allowed:
@@ -58,7 +58,7 @@ To know how to use the [token](../blocks/base.md#token), check[#token](../blocks
 
 *   [x] Click on OAuth2, then on "URL Generator"
 
-    <figure><img src="../.gitbook/assets/image (5).png" alt="Discord Developer Portal﹣&#x22;OAuth2﹣URL Generator&#x22; Menu"><figcaption><p>Discord Developer Portal﹣"OAuth2﹣URL Generator" Menu</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (10) (1).png" alt="Discord Developer Portal﹣&#x22;OAuth2﹣URL Generator&#x22; Menu"><figcaption><p>Discord Developer Portal﹣"OAuth2﹣URL Generator" Menu</p></figcaption></figure>
 * [x] Select Bot
 * [x] Select the BOT PERMISSIONS you need _(recommandation: for a private bot, chose Administrator)_
 * [x] Copy the URL

@@ -1,4 +1,4 @@
-# Emojis & Stickers
+# 😀 Emojis & Stickers
 
 ## Emojis
 

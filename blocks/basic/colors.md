@@ -2,7 +2,7 @@
 
 ## Usage
 
-You can use colors, for [embeds.md](../discord/messages/actions/embeds.md "mention") or some [#image-editing](../functions/files/images.md#image-editing "mention")&#x20;
+You can use colors, for [embeds.md](../discord/servers/messages/actions/embeds.md "mention") or some [#image-editing](../functions/files/images.md#image-editing "mention")&#x20;
 
 |                                         Input                                         |                                      Function                                     |        Output       |
 | :-----------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-----------------: |

@@ -1,3 +1,0 @@
-# Voice Channels
-
-n/a
