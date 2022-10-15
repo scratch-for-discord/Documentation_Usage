@@ -50,7 +50,7 @@
       * [📭 Leave](blocks/discord/members/events/leave.md)
   * [🗄 Servers](blocks/discord/servers/README.md)
     * [😀 Emojis & Stickers](blocks/discord/servers/emojis-and-stickers.md)
-    * [🟣 Roles](blocks/discord/servers/roles.md)
+    * [🔰 Roles](blocks/discord/servers/roles.md)
     * [🗓 Schedule events](blocks/discord/servers/events.md)
       * [📤 Actions](blocks/discord/servers/events/actions.md)
       * [📤 Events](blocks/discord/servers/events/events.md)

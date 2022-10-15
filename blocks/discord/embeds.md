@@ -53,7 +53,7 @@ An embed can include messages by inserting **"with message**" option
 
 To send an embed you need the block \[Send embed with name {embed/s} ]. Here are some ways to send embeds:
 
-<figure><img src="../../.gitbook/assets/screenshot (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/screenshot (31).png" alt=""><figcaption></figcaption></figure>
 
