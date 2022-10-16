@@ -2,7 +2,7 @@
 
 * [🏠 Home](README.md)
 
-## Introduction
+## 🔔 Introduction
 
 * [About Scratch for Discord](introduction/about.md)
 
@@ -15,12 +15,12 @@
 
 ## 🧱 Blocks
 
-* [Base](blocks/base.md)
-* [Basic](blocks/basic/README.md)
+* [💼 Base](blocks/base.md)
+* [⚽ Basic](blocks/basic/README.md)
   * [Text](blocks/basic/text.md)
   * [Math](blocks/basic/math.md)
   * [Colors](blocks/basic/colors.md)
-* [Functions](blocks/functions/README.md)
+* [🔩 Functions](blocks/functions/README.md)
   * [Logic](blocks/functions/logic/README.md)
     * [If logic](blocks/functions/logic/if-logic.md)
     * [State Machines](blocks/functions/logic/state-machines.md)
@@ -36,21 +36,20 @@
   * [Files](blocks/functions/files/README.md)
     * [Images](blocks/functions/files/images.md)
   * [Securing](blocks/functions/securing.md)
-* [Discord](blocks/discord/README.md)
-  * [Interactions](blocks/discord/interactions/README.md)
+* [🖥 Discord](blocks/discord/README.md)
+  * [📻 Interactions](blocks/discord/interactions/README.md)
     * [Slash](blocks/discord/interactions/slash.md)
     * [Button](blocks/discord/interactions/button.md)
     * [Menu](blocks/discord/interactions/menu.md)
     * [Context menu](blocks/discord/interactions/context-menu.md)
     * [Forms](blocks/discord/interactions/forms.md)
-  * [👥 Members](blocks/discord/members/README.md)
-    * [📤 Actions](blocks/discord/members/actions.md)
-    * [📥 Events](blocks/discord/members/events/README.md)
-      * [📬 Join](blocks/discord/members/events/joins-and-leaves.md)
-      * [📭 Leave](blocks/discord/members/events/leave.md)
   * [🗄 Servers](blocks/discord/servers/README.md)
-    * [😀 Emojis & Stickers](blocks/discord/servers/emojis-and-stickers.md)
-    * [🔰 Roles](blocks/discord/servers/roles.md)
+    * [😀 Emojis & Stickers](blocks/discord/servers/emojis-and-stickers/README.md)
+      * [📤 Actions](blocks/discord/servers/emojis-and-stickers/actions.md)
+      * [📤 Events](blocks/discord/servers/emojis-and-stickers/events.md)
+    * [🔰 Roles](blocks/discord/servers/roles/README.md)
+      * [📤 Actions](blocks/discord/servers/roles/actions.md)
+      * [📤 Events](blocks/discord/servers/roles/events.md)
     * [🗓 Schedule events](blocks/discord/servers/events.md)
       * [📤 Actions](blocks/discord/servers/events/actions.md)
       * [📤 Events](blocks/discord/servers/events/events.md)
@@ -68,16 +67,17 @@
         * [✅ Created](blocks/discord/servers/messages/events/created.md)
         * [⚙ Edited](blocks/discord/servers/messages/events/edited.md)
         * [❌ Deleted](blocks/discord/messages/edited-and-deleted.md)
-* [Websites](blocks/websites.md)
+    * [👥 Members](blocks/discord/servers/members/README.md)
+      * [📤 Actions](blocks/discord/servers/members/actions.md)
+      * [📥 Events](blocks/discord/servers/members/events/README.md)
+        * [📬 Join](blocks/discord/servers/members/events/joins-and-leaves.md)
+        * [📭 Leave](blocks/discord/servers/members/events/leave.md)
+* [🌐 Websites](blocks/websites.md)
 
 ## 🖥 Interface
 
-* [How to](interface/how-to.md)
 * [📦 Packages](interface/packages.md)
-
-***
-
-* [❔ FAQ](faq.md)
+* [❔ FAQ](interface/faq.md)
 
 ## 🔗 Links
 
