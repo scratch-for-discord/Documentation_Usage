@@ -58,12 +58,12 @@ Once a bot exceeds 100 servers:
     <figure><img src="../.gitbook/assets/Screen Shot 2022-10-16 at 10.26.06 AM.png" alt="Discord Developer Portal﹣&#x22;Token&#x22; Page"><figcaption><p>Discord Developer Portal﹣"Token" Page</p></figcaption></figure>
 
 {% hint style="warning" %}
-It is impossible to get an already created [token](../blocks/base.md#token):\
+It is impossible to get an already created [token](../toolbox/base.md#token):\
 If you have lost it, you need to reset it
 {% endhint %}
 
 {% hint style="info" %}
-To know how to use the [token](../blocks/base.md#token), check [#token](../blocks/base.md#token "mention")
+To know how to use the [token](../toolbox/base.md#token), check [#token](../toolbox/base.md#token "mention")
 {% endhint %}
 
 ## Bot Invitation

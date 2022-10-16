@@ -6,13 +6,13 @@ Support for both of these was stopped. It was only that it runed the browser in 
 
 ## How to Hide token in Replit?
 
-{% content-ref url="../get-started/hosting.md" %}
-[hosting.md](../get-started/hosting.md)
+{% content-ref url="../tutorial/hosting.md" %}
+[hosting.md](../tutorial/hosting.md)
 {% endcontent-ref %}
 
 ## My bot don´t want to go on
 
-Make sure to follow everything in [bot.md](../get-started/bot.md "mention") and [hosting.md](../get-started/hosting.md "mention")
+Make sure to follow everything in [bot.md](../tutorial/bot.md "mention") and [hosting.md](../tutorial/hosting.md "mention")
 
 Try typing `kill 1` in shell
 
@@ -48,14 +48,14 @@ You are missing a comma somewhere in your .json file
 
 ### Kick & Ban
 
-{% content-ref url="../blocks/discord/servers/members/" %}
-[members](../blocks/discord/servers/members/)
+{% content-ref url="../toolbox/discord/servers/members/" %}
+[members](../toolbox/discord/servers/members/)
 {% endcontent-ref %}
 
 ### Specific Channel
 
-{% content-ref url="../blocks/discord/servers/channels/" %}
-[channels](../blocks/discord/servers/channels/)
+{% content-ref url="../toolbox/discord/servers/channels/" %}
+[channels](../toolbox/discord/servers/channels/)
 {% endcontent-ref %}
 
 ### Making Slash reply ephemeral

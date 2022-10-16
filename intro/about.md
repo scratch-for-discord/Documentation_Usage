@@ -40,4 +40,4 @@ That's it, nothing more!
 
 ## Get started
 
-Perfect, let's [Broken link](broken-reference "mention")!
+Perfect, let's get started with [Broken link](broken-reference "mention")!

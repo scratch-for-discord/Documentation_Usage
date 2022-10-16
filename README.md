@@ -29,14 +29,14 @@ Documentation for Scratch for discord.
 
 ## Navigation
 
-{% content-ref url="introduction/about.md" %}
-[about.md](introduction/about.md)
+{% content-ref url="intro/about.md" %}
+[about.md](intro/about.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="blocks/discord/" %}
-[discord](blocks/discord/)
+{% content-ref url="toolbox/discord/" %}
+[discord](toolbox/discord/)
 {% endcontent-ref %}
