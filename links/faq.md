@@ -24,6 +24,16 @@ Check if you are receiving any errors.
 
 Most common error is `cannot find module [MODULE_NAME]` for this just run `npm i [MODULE_NAME]` in the shell.
 
+## Hosting bot 24/7
+
+<figure><img src="../.gitbook/assets/screenshot (95).png" alt=""><figcaption><p>Easiest way to host your bot</p></figcaption></figure>
+
+1. go to [https://uptimerobot.com/](https://uptimerobot.com/)
+2.  Add a new monitor with method Http(s)
+
+    <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Your bot link is a link of page it will create</p></figcaption></figure>
+3. Your bot should stay alive!
+
 ## Exporting code not working
 
 Open a Developer console and check for errors, you can open it by pressing F12

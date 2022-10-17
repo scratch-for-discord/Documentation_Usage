@@ -10,7 +10,6 @@
 
 * [Block Usage](tutorial/blocks.md)
 * [Bot Setup](tutorial/bot.md)
-* [Security](tutorial/security.md)
 * [Hosting](tutorial/hosting.md)
 
 ## 🧰 Toolbox
@@ -28,7 +27,7 @@
   * [Lists](toolbox/functions/lists.md)
   * [Variables](toolbox/functions/variables/README.md)
     * [Var](toolbox/functions/variables/var.md)
-    * [Let](toolbox/functions/variables/let.md)
+    * [Let and Const](toolbox/functions/variables/let-and-const.md)
   * [Functions](toolbox/functions/functions.md)
   * [Collections](toolbox/functions/collections.md)
   * [Objects](toolbox/functions/objects.md)

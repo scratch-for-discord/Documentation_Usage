@@ -4,7 +4,7 @@
 
 If statement is a function that checks if the value meets the condition. If statements are based on Booleans (true & false). This is used literally everywhere, to tell your code what to do.
 
-<img src="../../../.gitbook/assets/screenshot (84).png" alt="" data-size="original">
+![](<../../../.gitbook/assets/image (6).png>)
 
 ### Here is a good way to use if statements
 

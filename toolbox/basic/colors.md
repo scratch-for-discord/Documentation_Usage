@@ -33,7 +33,3 @@ So you divide 100 by 255 and multiply it whatever RGB value you wish
 Output is #ffd25a
 
 which is in RGB 255, 210, 90
-
-
-
-​

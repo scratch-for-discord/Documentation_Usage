@@ -38,14 +38,28 @@ You can use this if you want
 
 4\. Make sure to put all files from the folder and you are done. You can now run your bot!
 
-#### Usage with process.env
+{% hint style="danger" %}
+If a bot's repository is on a [repl.it](https://replit.com/) free plan, your code is forced to be open-source
 
-environmental variable is there to secure your bot token
+> If you don't use [[#process.env](hosting.md#process.env "mention")](hosting.md#process.env), your token is usable by anyone, read [#negligence](hosting.md#negligence "mention") if you don´t want to use them
+{% endhint %}
 
-#### How to use it?
+### process.env
 
-&#x20;
+Secrets are [environment variables (`.env`)](https://en.wikipedia.org/wiki/Environment\_variable) and they are unvisible to others.
 
-<figure><img src="../.gitbook/assets/EEEEEEEEEEEEEEEE (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/EEEEEEEEEEEEEEEE (1).png" alt=""><figcaption><p>Example how to use environmental variables on replit</p></figcaption></figure>
 
-and you are done!
+{% hint style="success" %}
+Congrats you have safely stored your token and are ready to continue coding!
+{% endhint %}
+
+### Possible Repercussions of Security Negligence <a href="#negligence" id="negligence"></a>
+
+{% hint style="danger" %}
+* Spy listening on the bot's reading data
+  * Security negligence about sensitive user data is illegal in the EU
+* Malicious usage of the bot
+  * Nuke of every server the bot is in
+  * Making the bot and the bot's account owner permanently banned from Discord
+{% endhint %}
