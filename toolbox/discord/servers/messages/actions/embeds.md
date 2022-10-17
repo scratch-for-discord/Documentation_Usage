@@ -62,7 +62,7 @@ To send an embed you need the block
 
 > Send embed with name (text).
 
-### Exemple
+### Example
 
 *
 
