@@ -47,6 +47,8 @@ S4D // username of bot
 
 ## Advanced
 
+![](../.gitbook/assets/screenshot.png)
+
 When the code runs, simply you add script without any event.
 
 Async, will make your part of code asynchromous, you can use it for example with [functions.md](functions/functions.md "mention")
