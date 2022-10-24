@@ -30,6 +30,7 @@
     * [Let and Const](toolbox/functions/variables/let-and-const.md)
   * [Functions](toolbox/functions/functions.md)
   * [Collections](toolbox/functions/collections.md)
+  * [Buffers](toolbox/functions/buffers.md)
   * [Objects](toolbox/functions/objects.md)
   * [Database](toolbox/functions/database.md)
   * [Files](toolbox/functions/files/README.md)
