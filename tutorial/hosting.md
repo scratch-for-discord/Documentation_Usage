@@ -48,7 +48,7 @@ If a bot's repository is on a [repl.it](https://replit.com/) free plan, your cod
 
 Secrets are [environment variables (`.env`)](https://en.wikipedia.org/wiki/Environment\_variable) and they are unvisible to others.
 
-<figure><img src="../.gitbook/assets/EEEEEEEEEEEEEEEE (1).png" alt=""><figcaption><p>Example how to use environmental variables on replit</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/EEEEEEEEEEEEEEEE.png" alt=""><figcaption><p>Example how to use environmental variables on replit</p></figcaption></figure>
 
 {% hint style="success" %}
 Congrats you have safely stored your token and are ready to continue coding!

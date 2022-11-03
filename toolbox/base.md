@@ -28,7 +28,7 @@ When the bot turns on, the code will be ran. Perfect for looping or setting a da
 
 <figure><img src="../.gitbook/assets/screenshot (93).png" alt=""><figcaption><p>Example of using this event</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Bot information
 
@@ -57,7 +57,7 @@ to add delay.
 
 Shutdown the bot - the name tell it all&#x20;
 
-Some operating system information, tells you about specs of server the bot is running on.![](<../.gitbook/assets/screenshot (94) (1).png>)
+Some operating system information, tells you about specs of server the bot is running on.![](<../.gitbook/assets/screenshot (94).png>)
 
 {% code title="Output" %}
 ```javascript

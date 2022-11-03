@@ -13,7 +13,7 @@ description: Stack Blocks
 | Block                                                                               | Function | Output |
 | ----------------------------------------------------------------------------------- | -------- | ------ |
 | <p></p><p><img src="../../../../../.gitbook/assets/screenshot (38).png" alt=""></p> |          |        |
-| ![](<../../../../../.gitbook/assets/screenshot (39).png>)                           |          |        |
+| ![](<../../../../../.gitbook/assets/screenshot (39) (3).png>)                       |          |        |
 | ![](<../../../../../.gitbook/assets/screenshot (40) (1).png>)                       |          |        |
 | ![](<../../../../../.gitbook/assets/screenshot (41) (1).png>)                       |          |        |
 | ![](<../../../../../.gitbook/assets/screenshot (42).png>)                           |          |        |
@@ -22,8 +22,8 @@ description: Stack Blocks
 | ![](<../../../../../.gitbook/assets/screenshot (45) (3).png>)                       |          |        |
 | ![](<../../../../../.gitbook/assets/screenshot (46) (2).png>)                       |          |        |
 | ![](<../../../../../.gitbook/assets/screenshot (47) (1).png>)                       |          |        |
-| ![](<../../../../../.gitbook/assets/screenshot (48) (1).png>)                       |          |        |
-| ![](<../../../../../.gitbook/assets/screenshot (49) (2).png>)                       |          |        |
+| ![](<../../../../../.gitbook/assets/screenshot (48) (2).png>)                       |          |        |
+| ![](<../../../../../.gitbook/assets/screenshot (49) (1).png>)                       |          |        |
 | ![](<../../../../../.gitbook/assets/screenshot (50) (2).png>)                       |          |        |
 | ![](<../../../../../.gitbook/assets/screenshot (51) (2).png>)                       |          |        |
 {% endtab %}
@@ -33,15 +33,15 @@ description: Stack Blocks
 
 | Block                                                         | Function | Output |
 | ------------------------------------------------------------- | -------- | ------ |
-| ![](<../../../../../.gitbook/assets/screenshot (82) (3).png>) |          |        |
+| ![](<../../../../../.gitbook/assets/screenshot (82) (1).png>) |          |        |
 | ![](<../../../../../.gitbook/assets/screenshot (52).png>)     |          |        |
-| ![](<../../../../../.gitbook/assets/screenshot (53) (1).png>) |          |        |
+| ![](<../../../../../.gitbook/assets/screenshot (53) (2).png>) |          |        |
 | ![](<../../../../../.gitbook/assets/screenshot (54) (1).png>) |          |        |
-| ![](<../../../../../.gitbook/assets/screenshot (55).png>)     |          |        |
-| ![](<../../../../../.gitbook/assets/screenshot (56) (1).png>) |          |        |
-| ![](<../../../../../.gitbook/assets/screenshot (57) (3).png>) |          |        |
-| ![](<../../../../../.gitbook/assets/screenshot (58) (4).png>) |          |        |
-| ![](<../../../../../.gitbook/assets/screenshot (59) (3).png>) |          |        |
+| ![](<../../../../../.gitbook/assets/screenshot (55) (1).png>) |          |        |
+| ![](<../../../../../.gitbook/assets/screenshot (56) (2).png>) |          |        |
+| ![](<../../../../../.gitbook/assets/screenshot (57) (2).png>) |          |        |
+| ![](<../../../../../.gitbook/assets/screenshot (58) (2).png>) |          |        |
+| ![](<../../../../../.gitbook/assets/screenshot (59) (2).png>) |          |        |
 | ![](<../../../../../.gitbook/assets/screenshot (60) (2).png>) |          |        |
 | ![](<../../../../../.gitbook/assets/screenshot (61).png>)     |          |        |
 | ![](<../../../../../.gitbook/assets/screenshot (62) (2).png>) |          |        |

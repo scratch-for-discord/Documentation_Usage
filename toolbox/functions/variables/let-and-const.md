@@ -1,4 +1,4 @@
-# Let
+# Let and Const
 
 **Let** is a variable type that cannot be redeclared multiple times, any other declaration will result a syntax.
 
@@ -16,4 +16,4 @@ Let will last for each event, for example Interaction author.
 
 For example I have set my name to John, since I want John to be the fixed value that cannot be changed.
 
-<figure><img src="../../../.gitbook/assets/screenshot (81).png" alt=""><figcaption><p>Example of Let usage</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot (81) (1).png" alt=""><figcaption><p>Example of Let usage</p></figcaption></figure>

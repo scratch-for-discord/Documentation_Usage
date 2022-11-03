@@ -31,7 +31,7 @@ Most common error is `cannot find module [MODULE_NAME]` for this just run `npm i
 1. go to [https://uptimerobot.com/](https://uptimerobot.com/)
 2.  Add a new monitor with method Http(s)
 
-    <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Your bot link is a link of page it will create</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Your bot link is a link of page it will create</p></figcaption></figure>
 3. Your bot should stay alive!
 
 ## Exporting code not working

@@ -12,7 +12,7 @@ description: >-
 
 *   [x] Insert the block "Create an embed with name {text} then {scratch}"
 
-    <figure><img src="../../../../../.gitbook/assets/screenshot (5) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../../.gitbook/assets/screenshot (5).png" alt=""><figcaption></figcaption></figure>
 * [x] Input a unique name in the name field
 * [x] Input at the at least 1 block from the "embed" toolbox category in the "{scratch}" field
 
@@ -26,9 +26,9 @@ description: >-
 | ![](<../../../../../.gitbook/assets/screenshot (16).png>)     | Set the "Author: **Profile URL"** of an Embed through a "String" block       | ![](../../../../../.gitbook/assets/imagen\_2022-10-13\_162621132.png) |
 | ![](<../../../../../.gitbook/assets/screenshot (11).png>)     | Set the "Title: **Name"** of an Embed through a "String" block               | ![](../../../../../.gitbook/assets/imagen\_2022-10-13\_162717620.png) |
 | ![](<../../../../../.gitbook/assets/screenshot (12).png>)     | Set the "Title: **URL"** of an Embed through a "String" block                | ![](../../../../../.gitbook/assets/imagen\_2022-10-13\_162801092.png) |
-| ![](<../../../../../.gitbook/assets/screenshot (9).png>)      | Set the "Description**"** of an Embed through a "String" block               | ![](../../../../../.gitbook/assets/imagen\_2022-10-13\_162919124.png) |
+| ![](<../../../../../.gitbook/assets/screenshot (9) (1).png>)  | Set the "Description**"** of an Embed through a "String" block               | ![](../../../../../.gitbook/assets/imagen\_2022-10-13\_162919124.png) |
 | ![](<../../../../../.gitbook/assets/screenshot (17).png>)     | Set the "Thumbnail**"** of an Embed through a "String" block                 | ![](../../../../../.gitbook/assets/imagen\_2022-10-13\_163004862.png) |
-| ![](<../../../../../.gitbook/assets/screenshot (25) (1).png>) | Set the "Image**"** of an Embed through a "String" block                     | ![](../../../../../.gitbook/assets/imagen\_2022-10-15\_091935788.png) |
+| ![](<../../../../../.gitbook/assets/screenshot (25).png>)     | Set the "Image**"** of an Embed through a "String" block                     | ![](../../../../../.gitbook/assets/imagen\_2022-10-15\_091935788.png) |
 | ![](<../../../../../.gitbook/assets/screenshot (23).png>)     | Set the "Title**"** and "Description" of a Field through a "String" block    | ![](../../../../../.gitbook/assets/imagen\_2022-10-15\_092136802.png) |
 | ![](<../../../../../.gitbook/assets/screenshot (26).png>)     | Set the "Footer name**"** of an Embed through a "String" block               | ![](../../../../../.gitbook/assets/imagen\_2022-10-15\_092941986.png) |
 | ![](<../../../../../.gitbook/assets/screenshot (27).png>)     | Set the "Footer Icon**"** of an Embed through a "String" block               | ![](../../../../../.gitbook/assets/imagen\_2022-10-15\_094622048.png) |
@@ -66,7 +66,7 @@ To send an embed you need the block
 
 *
 
-    <figure><img src="../../../../../.gitbook/assets/screenshot (30) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../../.gitbook/assets/screenshot (30).png" alt=""><figcaption></figcaption></figure>
 *
 
     <figure><img src="../../../../../.gitbook/assets/screenshot (31).png" alt=""><figcaption></figcaption></figure>
@@ -76,9 +76,9 @@ To send an embed you need the block
 
 ## Example
 
-|                                            Input                                           |                                 Output                                |
-| :----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
-| <img src="../../../../../.gitbook/assets/screenshot (37).png" alt="" data-size="original"> | ![](../../../../../.gitbook/assets/imagen\_2022-10-15\_103425904.png) |
+|                                              Input                                             |                                 Output                                |
+| :--------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+| <img src="../../../../../.gitbook/assets/screenshot (37) (1).png" alt="" data-size="original"> | ![](../../../../../.gitbook/assets/imagen\_2022-10-15\_103425904.png) |
 
 ## Limitations
 

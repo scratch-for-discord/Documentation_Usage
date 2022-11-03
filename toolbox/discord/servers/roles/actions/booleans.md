@@ -12,9 +12,9 @@ There is no **output section** because booleans blocks only **returns** <mark st
 
 | Block                                                         | Function |
 | ------------------------------------------------------------- | -------- |
-| ![](<../../../../../.gitbook/assets/screenshot (63) (2).png>) |          |
-| ![](<../../../../../.gitbook/assets/screenshot (64) (1).png>) |          |
-| ![](<../../../../../.gitbook/assets/screenshot (65) (2).png>) |          |
-| ![](<../../../../../.gitbook/assets/screenshot (66) (2).png>) |          |
+| ![](<../../../../../.gitbook/assets/screenshot (63) (1).png>) |          |
+| ![](<../../../../../.gitbook/assets/screenshot (64).png>)     |          |
+| ![](<../../../../../.gitbook/assets/screenshot (65).png>)     |          |
+| ![](<../../../../../.gitbook/assets/screenshot (66).png>)     |          |
 | ![](<../../../../../.gitbook/assets/screenshot (67).png>)     |          |
-| ![](<../../../../../.gitbook/assets/screenshot (68) (1).png>) |          |
+| ![](<../../../../../.gitbook/assets/screenshot (68).png>)     |          |

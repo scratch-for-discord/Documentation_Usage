@@ -37,7 +37,7 @@ Works the same as JSON database, just you must create an account at [https://www
 5. connect your application
 6.  copy the text
 
-    <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 7. change your username and password
 8. go to security / network access and add IP 0.0.0.0/0
 9.  add your link to the connect to mongoDB block

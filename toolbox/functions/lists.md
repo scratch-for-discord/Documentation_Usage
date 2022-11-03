@@ -12,7 +12,7 @@ Lists are used mainly for splitting and managing a text
 
 You can make a list by splitting a text seen as example bellow, Creating an empty list or Making a list with same items by x times.
 
-<figure><img src="../../.gitbook/assets/screenshot (48) (2).png" alt=""><figcaption><p>Example of a list</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot (48) (1).png" alt=""><figcaption><p>Example of a list</p></figcaption></figure>
 
 {% code title="Output" %}
 ```javascript
@@ -23,7 +23,7 @@ You can make a list by splitting a text seen as example bellow, Creating an empt
 
 ## Managing a list
 
-<figure><img src="../../.gitbook/assets/screenshot (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot (74) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% code title="Output" %}
 ```javascript
@@ -34,7 +34,7 @@ You can make a list by splitting a text seen as example bellow, Creating an empt
 
 ## Information of a list
 
-<figure><img src="../../.gitbook/assets/screenshot (73).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot (73) (1).png" alt=""><figcaption></figcaption></figure>
 
 <pre class="language-javascript" data-title="Output"><code class="lang-javascript">6 //lenght
 true // list contains "A"
@@ -48,7 +48,7 @@ A regular expression is a sequence of characters that specifies a search pattern
 
 To make a Regex, you can use [https://regex101.com/](https://regex101.com/)
 
-<figure><img src="../../.gitbook/assets/screenshot (47) (2).png" alt=""><figcaption><p>Example of using Regex</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot (47) (3).png" alt=""><figcaption><p>Example of using Regex</p></figcaption></figure>
 
 {% code title="Output" %}
 ```javascript

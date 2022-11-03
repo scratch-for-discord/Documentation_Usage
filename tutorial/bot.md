@@ -9,7 +9,7 @@ description: Application Creation and Management
 1. Go to the [Discord developer portal](https://discord.com/developers/applications)
 2.  Click on on the top right button "New Application"
 
-    <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Discord Developer Portal﹣"New Application" Button</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Discord Developer Portal﹣"New Application" Button</p></figcaption></figure>
 3.  In the modal, input a name in the "name" field, then click on the button "create"
 
     <figure><img src="../.gitbook/assets/Screen Shot 2022-10-16 at 9.38.57 AM.png" alt="Discord Developer Portal﹣&#x22;Create an Application&#x22; Modal"><figcaption><p>Discord Developer Portal﹣"Create an Application" Modal</p></figcaption></figure>
@@ -28,7 +28,7 @@ This is where you can customize the bot and add more information
     <figure><img src="../.gitbook/assets/Screen Shot 2022-10-16 at 9.59.48 AM.png" alt="Discord Developer Portal﹣&#x22;Bot&#x22; Menu"><figcaption><p>Discord Developer Portal﹣"Bot" Menu</p></figcaption></figure>
 2.  Click on the far right button "Add Bot"
 
-    <figure><img src="../.gitbook/assets/image (5) (1).png" alt="Discord Developer Portal﹣&#x22;Add Bot&#x22; Button"><figcaption><p>Discord Developer Portal﹣"Add Bot" Button</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (23).png" alt="Discord Developer Portal﹣&#x22;Add Bot&#x22; Button"><figcaption><p>Discord Developer Portal﹣"Add Bot" Button</p></figcaption></figure>
 3.  Scroll down to the sections "Privileged Gateway Intents", and turn all of them on
 
     <figure><img src="../.gitbook/assets/Screen Shot 2022-10-16 at 10.05.23 AM.png" alt="Discord Developer Portal﹣&#x22;Privileged Gateway Intents&#x22; Section"><figcaption><p>Discord Developer Portal﹣"Privileged Gateway Intents" Section</p></figcaption></figure>
@@ -70,7 +70,7 @@ To know how to use the [token](../toolbox/base.md#token), check [#token](../tool
 
 1.  Go to the sidebar menu "OAuth2", then on the sub-menu "URL generator"
 
-    <figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 2.  Select the option "bot"
 
     <figure><img src="../.gitbook/assets/Screen Shot 2022-10-16 at 10.58.43 AM.png" alt=""><figcaption><p>once selected another menu will open</p></figcaption></figure>
